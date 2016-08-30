@@ -1,5 +1,7 @@
 # formatla
-###string formatter
+```js
+string formatter
+```
 
 ## how to install
 
