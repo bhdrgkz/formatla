@@ -1,6 +1,6 @@
 {
   "name": "formatla",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "string formatter",
   "main": "formatla.js",
   "scripts": {
@@ -12,12 +12,13 @@
   },
   "keywords": [
     "separator",
+    "format string",
     "parse",
     "number",
     "format",
+    "formatter",
     "convert",
     "integer",
-    "localized",
     "points",
     "comma",
     "separators"
