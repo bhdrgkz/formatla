@@ -5,7 +5,7 @@ function reverse(string) {
   return o;
 }
 
-function separators(string, separator, range, startDirection){
+function formatla(string, separator, range, startDirection){
 
   if (typeof string === 'number'){
     string = string.toString();
@@ -34,5 +34,5 @@ function separators(string, separator, range, startDirection){
 
 module.exports = function (string, separator, range, startDirection) {
   'use strict';
-  return separators(string, separator, range, startDirection);
+  return formatla(string, separator, range, startDirection);
 };

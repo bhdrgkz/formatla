@@ -1,14 +1,14 @@
 {
-  "name": "separators",
+  "name": "formatla",
   "version": "1.0.1",
-  "description": "separate and format strings",
-  "main": "separators.js",
+  "description": "format string",
+  "main": "formatla.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bhdrgkz/separators.git"
+    "url": "git+https://github.com/bhdrgkz/formatla.git"
   },
   "keywords": [
     "separator",
@@ -25,7 +25,7 @@
   "author": "Bahadır Gököz <bahadir.gokoz@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bhdrgkz/separators/issues"
+    "url": "https://github.com/bhdrgkz/formatla/issues"
   },
-  "homepage": "https://github.com/bhdrgkz/separators#readme"
+  "homepage": "https://github.com/bhdrgkz/formatla#readme"
 }

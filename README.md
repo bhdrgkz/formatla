@@ -1,21 +1,22 @@
-# separators
+# formatla
+###string formatter
 
 ## how to install
 
 ### npm
 ```sh
-npm install separators --save
+npm install formatla --save
 ```
 
 ## how to use
 ### node
 ```js
-var separators = require('separators');
+var formatla = require('formatla');
 ```
 
 ##variables and values
 ```js
-separators(string, separator, range, startDirection);
+formatla(string, separator, range, startDirection);
 ```
 ```text
 separator -> type string -> "any separator/character"
@@ -26,9 +27,9 @@ startDirection (determines the direction of the start.) -> type string -> "left"
 
 ## examples
 ```js
-separators("1000000000", ".", 3, "right"); //1.000.000.000
-separators("1000000000", ".", 3, "left"); //100.000.000.0
-separators("4543123423455678", "-", 4, "left"); //4543-1234-2345-5678
-separators("istanbulturkey", ":", 2, "right"); //is:ta:nb:ul:tu:rk:ey
+formatla("1000000000", ".", 3, "right"); //1.000.000.000
+formatla("1000000000", ".", 3, "left"); //100.000.000.0
+formatla("4543123423455678", "-", 4, "left"); //4543-1234-2345-5678
+formatla("istanbulturkey", ":", 2, "right"); //is:ta:nb:ul:tu:rk:ey
 
 ```
