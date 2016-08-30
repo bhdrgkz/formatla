@@ -13,7 +13,7 @@ npm install separators --save
 var separators = require('separators');
 ```
 
-#variables and values
+##variables and values
 ```js
 separators(string, separator, range, startDirection);
 ```
