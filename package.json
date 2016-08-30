@@ -1,7 +1,7 @@
 {
   "name": "separators",
-  "version": "1.0.0",
-  "description": "separate and format all integers and strings",
+  "version": "1.0.1",
+  "description": "separate and format strings",
   "main": "separators.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,7 +12,15 @@
   },
   "keywords": [
     "separator",
-    "format"
+    "parse",
+    "number",
+    "format",
+    "convert",
+    "integer",
+    "localized",
+    "points",
+    "comma",
+    "separators"
   ],
   "author": "Bahadır Gököz <bahadir.gokoz@gmail.com>",
   "license": "MIT",
